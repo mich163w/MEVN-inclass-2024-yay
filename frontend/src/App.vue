@@ -9,6 +9,7 @@ import { onMounted } from 'vue'
     <router-link to="/todos">Todos</router-link>
   </nav>
   <router-view/>
+  Blub
 </template>
 
 <style>
